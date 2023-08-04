@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elmenawy
 - 👀 I’m interested in Data Science,AI,Big Data
 - 🌱 I’m currently learning Data Science ,AI 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with  Data Scientists, Machine Learning Engineers, and Content creators, and developers..
 - 📫 How to reach me ...
 
 <!---
